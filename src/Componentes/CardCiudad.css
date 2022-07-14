@@ -1,0 +1,12 @@
+.container{
+    align-items: center;
+    justify-content: center;
+    align-content: center;
+}
+.cardCiudad{
+    margin: auto;
+    width: 50%;
+    align-items: center;
+    justify-content: center;
+    align-content: center;
+}

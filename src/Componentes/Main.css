@@ -1,0 +1,21 @@
+.img1{
+    margin: auto;
+    width: 200px;
+    align-items: center;
+    justify-content: center;
+    align-content: center;
+    position: relative;
+}
+.row {
+    display: flex;
+    width: 100%;
+  }
+  .card1 {
+    background: grey;
+    width: 15%;
+ }
+ .card2 {
+    border: white;
+    background: grey;
+    width: 85%;
+ }
